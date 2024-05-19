@@ -21,3 +21,5 @@ With my Ø6x2.5mm² neodym magnet, the valid airgap is 0-1.5mm
 Once hardware ready:
 - Use acg-status.ino : if 1<ACG<127 your airgap is valid. If not correct to have a valid airgap.
 - The radial displacement cannot be validate. If it is greater than 0.25mm, linéarity will be lower or your measure not valid
+
+When radial displacement and airgap is correct you can read raw angle with raw-angle.ino
