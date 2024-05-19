@@ -1,5 +1,5 @@
-# What is this for?
-Very short arduino code example for AS5600 without any library.
+# Short Arduino code example without library
+Very short arduino code examples for AS5600 without any library.
 Tested on Uno, Mega, ESP8266, ESP32
 It should work on any board on Arduino IDE with an existing wire library.
 
